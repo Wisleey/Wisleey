@@ -22,3 +22,6 @@ Aqui em baixo você ira encontrar meu Instagram e algumas tecnologias que eu est
 
 
 ![Wisley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisleey&show_icons=true&theme=tokyonight)
+
+### 💻 Apoixonado por Tecnologia e Me Dedicado a Buscar Conhecimento Cada Dia Mais. 
+
