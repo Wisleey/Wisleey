@@ -21,6 +21,8 @@ Aqui em baixo você ira encontrar meu Instagram e algumas tecnologias que eu est
 )
 ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )
+![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+)
 
 
 
